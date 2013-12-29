@@ -1,0 +1,206 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{ph}{book}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Hering}{H.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Martin}{M.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stohrer}{S.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer-Verlag}%
+  }
+  \strng{namehash}{HMS1}
+  \strng{fullhash}{HMS1}
+  \field{sortinit}{H}
+  \field{edition}{Zehnte Auflage}
+  \field{title}{Physik für Ingenieure}
+  \field{year}{2007}
+\endentry
+
+\entry{gst}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Holland}{H.}%
+     {Heinrich}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Scharmbacher}{S.}%
+     {Kurt}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Gabler-Verlag}%
+  }
+  \strng{namehash}{HHSK1}
+  \strng{fullhash}{HHSK1}
+  \field{sortinit}{H}
+  \field{edition}{Achte Auflage}
+  \field{title}{Grundlagen der Statistik}
+  \field{year}{2010}
+\endentry
+
+\entry{tp}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kuchling}{K.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Carl Hanser Verlag}%
+  }
+  \strng{namehash}{K1}
+  \strng{fullhash}{K1}
+  \field{sortinit}{K}
+  \field{edition}{Neunzehnte Auflage}
+  \field{title}{Taschenbuch der Physik}
+  \field{year}{2007}
+\endentry
+
+\entry{wm}{book}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Läpple}{L.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Drube}{D.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wittke}{W.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kammer}{K.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Europa-Verlag}%
+  }
+  \strng{namehash}{L+1}
+  \strng{fullhash}{LDWK1}
+  \field{sortinit}{L}
+  \field{edition}{Zweite aktualisierte und erweiterte Auflage}
+  \field{title}{Werkstofftechnik Maschinenbau}
+  \field{year}{2010}
+\endentry
+
+\entry{aa}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Ostermann}{O.}%
+     {Friedrich}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer-Verlag}%
+  }
+  \strng{namehash}{OF1}
+  \strng{fullhash}{OF1}
+  \field{sortinit}{O}
+  \field{edition}{Zweite neu bearbeitete und aktualisierte Auflage}
+  \field{title}{Anwendungstechnologie Aluminium}
+  \field{year}{2007}
+\endentry
+
+\entry{mf}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Papula}{P.}%
+     {Lothar}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Vieweg-Teubner}%
+  }
+  \strng{namehash}{PL1}
+  \strng{fullhash}{PL1}
+  \field{sortinit}{P}
+  \field{edition}{Zehnte Auflage}
+  \field{title}{Mathematische Formelsammlung}
+  \field{year}{2009}
+\endentry
+
+\entry{wki}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Roos}{R.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Maile}{M.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RM1}
+  \strng{fullhash}{RM1}
+  \field{sortinit}{R}
+  \field{edition}{Dritte neu bearbeitete Auflage}
+  \field{title}{Werkstoffkunde für Ingenieure}
+  \field{year}{2008}
+\endentry
+
+\entry{wk}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Weisbach}{W.}%
+     {Wolfgang}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Vieweg-Verlag}%
+  }
+  \strng{namehash}{WW1}
+  \strng{fullhash}{WW1}
+  \field{sortinit}{W}
+  \field{edition}{Sechzehnte überarbeitete Auflage}
+  \field{title}{Werkstoffkunde}
+  \field{year}{2007}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
