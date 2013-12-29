@@ -1,0 +1,12 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Einleitung}{3}
+\contentsline {section}{\numberline {2}Bauteil}{5}
+\contentsline {subsection}{\numberline {2.1}Funktion \& Qualit\IeC {\"a}tsumfang}{5}
+\contentsline {subsection}{\numberline {2.2}Aluminium}{6}
+\contentsline {subsection}{\numberline {2.3}Streckbiegen}{6}
+\contentsline {subsection}{\numberline {2.4}Kr\IeC {\"o}pfen }{7}
+\contentsline {subsection}{\numberline {2.5}Methode Messauswertung}{8}
+\contentsline {subsection}{\numberline {2.6}Chargenvergleich Streckbiegen}{9}
+\contentsline {subsubsection}{\numberline {2.6.1}Ausblick}{14}
