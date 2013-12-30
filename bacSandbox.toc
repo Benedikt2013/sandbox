@@ -7,6 +7,6 @@
 \contentsline {subsection}{\numberline {2.2}Aluminium}{6}
 \contentsline {subsection}{\numberline {2.3}Streckbiegen}{6}
 \contentsline {subsection}{\numberline {2.4}Kr\IeC {\"o}pfen }{7}
-\contentsline {subsection}{\numberline {2.5}Methode Messauswertung}{8}
-\contentsline {subsection}{\numberline {2.6}Chargenvergleich Streckbiegen}{9}
+\contentsline {subsection}{\numberline {2.5}Methode Messauswertung}{9}
+\contentsline {subsection}{\numberline {2.6}Chargenvergleich Streckbiegen}{10}
 \contentsline {subsubsection}{\numberline {2.6.1}Ausblick}{14}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.19)  30 DEC 2013 07:29
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.19)  30 DEC 2013 08:18
 entering extended mode
 **bacSandbox.tex
 (C:\Users\B\Desktop\sandbox\bacSandbox.tex
@@ -1433,29 +1433,23 @@ Package pdftex.def Info: ZierleisteVerdeckklappendeckel.png used on input line
 50.
 (pdftex.def)             Requested size: 213.39452pt x 146.2481pt.
  [3] [4 <C:/Users/B/Desktop/sandbox/ZierleisteVerdeckklappendeckel.png>]
-<audia314.jpg, id=24, 732.7375pt x 414.54875pt>
-File: audia314.jpg Graphic file (type jpg)
- <use audia314.jpg>
-Package pdftex.def Info: audia314.jpg used on input line 70.
-(pdftex.def)             Requested size: 230.81354pt x 130.58354pt.
+<audia3blau.png, id=24, 562.35094pt x 270.25969pt>
+File: audia3blau.png Graphic file (type png)
+ <use audia3blau.png>
+Package pdftex.def Info: audia3blau.png used on input line 70.
+(pdftex.def)             Requested size: 262.45152pt x 126.13132pt.
 
 <audivdkd.png, id=25, 596.2275pt x 479.54156pt>
 File: audivdkd.png Graphic file (type png)
  <use audivdkd.png>
 Package pdftex.def Info: audivdkd.png used on input line 72.
-(pdftex.def)             Requested size: 162.76672pt x 130.91212pt.
+(pdftex.def)             Requested size: 156.80774pt x 126.11935pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 77.
 
 Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[][]\T1/lmr/m/n/10 Vgl.http://www.motorvision.de/images/3/0/2/8/0/9/958x645%2B7
-68x432%2B-82x-
- []
-
-
-Overfull \hbox (14.65105pt too wide) in paragraph at lines 77--77
-\T1/lmr/m/n/10 169%2B725/Audi_A3_Cabrio_2014_Heck.jpg und http://www.cars.co.za
-/motoring_news/2014-
+[][]\T1/lmr/m/n/10 Vgl.http://www.cars.co.za/motoring_news/2014-audi-a3-cabriol
+et-completes-the-a3-
  []
 
 <vdkdtol.png, id=26, 445.665pt x 342.5297pt>
@@ -1481,14 +1475,14 @@ m/m/it/12 R[]\OT1/lmr/m/n/12 [[]$\T1/lmr/m/n/12 ], Deh-nung $\OML/lmm/m/it/12 R
 []\OT1/lmr/m/n/12 [[]]$\T1/lmr/m/n/12 ,
  []
 
-[5 <C:/Users/B/Desktop/sandbox/audia314.jpg> <C:/Users/B/Desktop/sandbox/audivd
-kd.png>]
+[5 <C:/Users/B/Desktop/sandbox/audia3blau.png> <C:/Users/B/Desktop/sandbox/audi
+vdkd.png>]
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 119.
 
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<Streckbiegemaschine.jpg, id=35, 3302.3375pt x 2483.2775pt>
+<Streckbiegemaschine.jpg, id=36, 3302.3375pt x 2483.2775pt>
 File: Streckbiegemaschine.jpg Graphic file (type jpg)
 
 <use Streckbiegemaschine.jpg>
@@ -1500,30 +1494,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 131--131
  ?sigle = DWB&mode = Gliederung&lemid =$
  []
 
-<kropfeinhzeich.jpg, id=46, 385.44pt x 246.9225pt>
+<kropfeinhzeich.jpg, id=47, 385.44pt x 246.9225pt>
 File: kropfeinhzeich.jpg Graphic file (type jpg)
  <use kropfeinhzeich.jpg>
 Package pdftex.def Info: kropfeinhzeich.jpg used on input line 136.
 (pdftex.def)             Requested size: 262.09573pt x 167.90506pt.
 
-<kropfeinheit.png, id=47, 262.73157pt x 337.26pt>
+<kropfeinheit.png, id=48, 262.73157pt x 337.26pt>
 File: kropfeinheit.png Graphic file (type png)
  <use kropfeinheit.png>
 Package pdftex.def Info: kropfeinheit.png used on input line 138.
 (pdftex.def)             Requested size: 131.36545pt x 168.62958pt.
 
-<kropffrasbereich.png, id=48, 183.68625pt x 193.47281pt>
+<kropffrasbereich.png, id=49, 183.68625pt x 193.47281pt>
 File: kropffrasbereich.png Graphic file (type png)
 
 <use kropffrasbereich.png>
 Package pdftex.def Info: kropffrasbereich.png used on input line 147.
-(pdftex.def)             Requested size: 128.57947pt x 135.43004pt.
- <kropfung.jpg, id=49, 1463.4675pt x 1000.73875pt>
+(pdftex.def)             Requested size: 150.99084pt x 159.03546pt.
+ <kropfung.jpg, id=50, 1463.4675pt x 1000.73875pt>
 File: kropfung.jpg Graphic file (type jpg)
 
 <use kropfung.jpg>
 Package pdftex.def Info: kropfung.jpg used on input line 149.
-(pdftex.def)             Requested size: 204.88405pt x 140.10246pt.
+(pdftex.def)             Requested size: 234.15958pt x 160.12148pt.
  [7 <C:/Users/B/Desktop/sandbox/spanndehn2.png> <C:/Users/B/Desktop/sandbox/Str
 eckbiegemaschine.jpg>]
 
@@ -1542,55 +1536,58 @@ or  <return>  to continue without it.
 
 [8 <C:/Users/B/Desktop/sandbox/kropfeinhzeich.jpg> <C:/Users/B/Desktop/sandbox/
 kropfeinheit.png> <C:/Users/B/Desktop/sandbox/kropffrasbereich.png> <C:/Users/B
-/Desktop/sandbox/kropfung.jpg>]
+/Desktop/sandbox/kropfung.jpg>] [9]
 Underfull \hbox (badness 10000) in paragraph at lines 217--217
 [][]\T1/lmr/m/n/10 Vgl.$\T1/lmtt/m/n/10 http : / / www . unibw . de / lrt5 / le
 hre / praktikum / zusatzinformationen / download4 / at _$
  []
 
-[9] [10] <messpunktevdkda3.png, id=71, 545.78906pt x 212.29312pt>
+[10] <messpunktevdkda3.png, id=72, 545.78906pt x 212.29312pt>
 File: messpunktevdkda3.png Graphic file (type png)
 
 <use messpunktevdkda3.png>
 Package pdftex.def Info: messpunktevdkda3.png used on input line 246.
 (pdftex.def)             Requested size: 426.7964pt x 146.25241pt.
- <Messlehre.jpg, id=72, 3150.77126pt x 1191.45125pt>
+ <Messlehre.jpg, id=73, 3150.77126pt x 1191.45125pt>
 File: Messlehre.jpg Graphic file (type jpg)
 
 <use Messlehre.jpg>
 Package pdftex.def Info: Messlehre.jpg used on input line 261.
-(pdftex.def)             Requested size: 269.08604pt x 101.75378pt.
- <messvdkd.jpg, id=73, 3296.315pt x 2477.255pt>
+(pdftex.def)             Requested size: 276.34566pt x 104.49898pt.
+ <messvdkd.jpg, id=74, 3296.315pt x 2477.255pt>
 File: messvdkd.jpg Graphic file (type jpg)
 
 <use messvdkd.jpg>
 Package pdftex.def Info: messvdkd.jpg used on input line 263.
 (pdftex.def)             Requested size: 138.46944pt x 104.0629pt.
- <standardstreckb.png, id=74, 485.56406pt x 207.02344pt>
+ <standardstreckb.png, id=75, 485.56406pt x 207.02344pt>
 File: standardstreckb.png Graphic file (type png)
 
 <use standardstreckb.png>
 Package pdftex.def Info: standardstreckb.png used on input line 273.
 (pdftex.def)             Requested size: 426.78645pt x 219.3806pt.
- [11 <C:/Users/B/Desktop/sandbox/messpunktevdkda3.png> <C:/Users/B/Desktop/sand
-box/Messlehre.jpg> <C:/Users/B/Desktop/sandbox/messvdkd.jpg>]
+ [11 <C:/Users/B/Desktop/sandbox/messpunktevdkda3.png>]
 Overfull \hbox (12.87491pt too wide) in paragraph at lines 294--339
 [][] 
  []
 
-<mitkontausstrckb.png, id=79, 417.05812pt x 220.57407pt>
+<mitkontausstrckb.png, id=80, 417.05812pt x 220.57407pt>
 File: mitkontausstrckb.png Graphic file (type png)
 
 <use mitkontausstrckb.png>
 Package pdftex.def Info: mitkontausstrckb.png used on input line 343.
 (pdftex.def)             Requested size: 426.81277pt x 219.38205pt.
- [12 <C:/Users/B/Desktop/sandbox/standardstreckb.png> <C:/Users/B/Desktop/sandb
-ox/mitkontausstrckb.png>] [13]
-<standzugrel.png, id=91, 432.11438pt x 223.58531pt>
+ [12 <C:/Users/B/Desktop/sandbox/Messlehre.jpg> <C:/Users/B/Desktop/sandbox/mes
+svdkd.jpg> <C:/Users/B/Desktop/sandbox/standardstreckb.png>] [13] <standzugrel.
+png, id=91, 432.11438pt x 223.58531pt>
 File: standzugrel.png Graphic file (type png)
- <use standzugrel.png>
+
+<use standzugrel.png>
 Package pdftex.def Info: standzugrel.png used on input line 356.
 (pdftex.def)             Requested size: 426.80551pt x 219.3782pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <standstreckrel.png, id=92, 423.08063pt x 231.86626pt>
 File: standstreckrel.png Graphic file (type png)
@@ -1602,8 +1599,9 @@ Package pdftex.def Info: standstreckrel.png used on input line 364.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[14 <C:/Users/B/Desktop/sandbox/standzugrel.png>] [15 <C:/Users/B/Desktop/sandb
-ox/standstreckrel.png>] (C:\Users\B\Desktop\sandbox\bacSandbox.aux)
+[14 <C:/Users/B/Desktop/sandbox/mitkontausstrckb.png>] [15 <C:/Users/B/Desktop/
+sandbox/standzugrel.png> <C:/Users/B/Desktop/sandbox/standstreckrel.png>]
+[16] (C:\Users\B\Desktop\sandbox\bacSandbox.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1616,12 +1614,12 @@ Package logreq Info: Writing requests to 'bacSandbox.run.xml'.
 ### bottom level 
 Here is how much of TeX's memory you used:
  20043 strings out of 493921
- 372217 string characters out of 3144887
- 527582 words of memory out of 3000000
+ 372227 string characters out of 3144887
+ 526582 words of memory out of 3000000
  22977 multiletter control sequences out of 15000+200000
  105577 words of font info for 84 fonts, out of 3000000 for 9000
  845 hyphenation exceptions out of 8191
- 50i,19n,66p,1043b,1528s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 50i,19n,66p,1043b,1526s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc
 }{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files (x86)/M
@@ -1644,9 +1642,9 @@ pe1/public/lm/lmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm
 ram Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files (
 x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files (x86)/MiKTeX 
 2.9/fonts/type1/public/lm/lmtt10.pfb>
-Output written on bacSandbox.pdf (15 pages, 5001853 bytes).
+Output written on bacSandbox.pdf (16 pages, 5423238 bytes).
 PDF statistics:
- 170 PDF objects out of 1000 (max. 8388607)
+ 174 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
