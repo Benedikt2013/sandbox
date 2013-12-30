@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.19)  29 DEC 2013 09:07
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.19)  30 DEC 2013 07:29
 entering extended mode
 **bacSandbox.tex
 (C:\Users\B\Desktop\sandbox\bacSandbox.tex
@@ -1437,19 +1437,19 @@ Package pdftex.def Info: ZierleisteVerdeckklappendeckel.png used on input line
 File: audia314.jpg Graphic file (type jpg)
  <use audia314.jpg>
 Package pdftex.def Info: audia314.jpg used on input line 70.
-(pdftex.def)             Requested size: 223.47902pt x 126.43402pt.
+(pdftex.def)             Requested size: 230.81354pt x 130.58354pt.
 
-<audia3verd.png, id=25, 223.58531pt x 220.57407pt>
-File: audia3verd.png Graphic file (type png)
- <use audia3verd.png>
-Package pdftex.def Info: audia3verd.png used on input line 72.
-(pdftex.def)             Requested size: 128.11362pt x 126.38818pt.
+<audivdkd.png, id=25, 596.2275pt x 479.54156pt>
+File: audivdkd.png Graphic file (type png)
+ <use audivdkd.png>
+Package pdftex.def Info: audivdkd.png used on input line 72.
+(pdftex.def)             Requested size: 162.76672pt x 130.91212pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 77.
 
 Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[][]\T1/lmr/m/n/10 http://www.motorvision.de/images/3/0/2/8/0/9/958x645%2B768x4
-32%2B-82x-
+[][]\T1/lmr/m/n/10 Vgl.http://www.motorvision.de/images/3/0/2/8/0/9/958x645%2B7
+68x432%2B-82x-
  []
 
 
@@ -1481,8 +1481,8 @@ m/m/it/12 R[]\OT1/lmr/m/n/12 [[]$\T1/lmr/m/n/12 ], Deh-nung $\OML/lmm/m/it/12 R
 []\OT1/lmr/m/n/12 [[]]$\T1/lmr/m/n/12 ,
  []
 
-[5 <C:/Users/B/Desktop/sandbox/audia314.jpg> <C:/Users/B/Desktop/sandbox/audia3
-verd.png>]
+[5 <C:/Users/B/Desktop/sandbox/audia314.jpg> <C:/Users/B/Desktop/sandbox/audivd
+kd.png>]
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 119.
 
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
@@ -1544,14 +1544,8 @@ or  <return>  to continue without it.
 kropfeinheit.png> <C:/Users/B/Desktop/sandbox/kropffrasbereich.png> <C:/Users/B
 /Desktop/sandbox/kropfung.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 217--217
-[][]\T1/lmr/m/n/10 Vgl.$\T1/lmtt/m/n/10 https : / / www . google . de / search 
-? q = aluminium + T61&rlz = 1C1CHFX _ deDE510DE510&oq =$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 217--217
-$\T1/lmtt/m/n/10 aluminium + T61&aqs = chrome . .69i57j0l5 . 7685j0j3&sourceid 
-= chrome&espv = 210&es _ sm =$
+[][]\T1/lmr/m/n/10 Vgl.$\T1/lmtt/m/n/10 http : / / www . unibw . de / lrt5 / le
+hre / praktikum / zusatzinformationen / download4 / at _$
  []
 
 [9] [10] <messpunktevdkda3.png, id=71, 545.78906pt x 212.29312pt>
@@ -1622,8 +1616,8 @@ Package logreq Info: Writing requests to 'bacSandbox.run.xml'.
 ### bottom level 
 Here is how much of TeX's memory you used:
  20043 strings out of 493921
- 372227 string characters out of 3144887
- 528582 words of memory out of 3000000
+ 372217 string characters out of 3144887
+ 527582 words of memory out of 3000000
  22977 multiletter control sequences out of 15000+200000
  105577 words of font info for 84 fonts, out of 3000000 for 9000
  845 hyphenation exceptions out of 8191
@@ -1650,7 +1644,7 @@ pe1/public/lm/lmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm
 ram Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files (
 x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files (x86)/MiKTeX 
 2.9/fonts/type1/public/lm/lmtt10.pfb>
-Output written on bacSandbox.pdf (15 pages, 4172275 bytes).
+Output written on bacSandbox.pdf (15 pages, 5001853 bytes).
 PDF statistics:
  170 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
